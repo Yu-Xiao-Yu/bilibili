@@ -1,5 +1,7 @@
 # bilibili
 
+技术栈 vue + vuex + vue-router + ES6/7 + less + flex + vant
+
 ## Project setup
 ```
 npm install
@@ -22,3 +24,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+#bilibili
